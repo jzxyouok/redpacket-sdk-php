@@ -1,0 +1,22 @@
+{
+    "name": "yunzhanghu/redpacket-sdk-php",
+    "description": "Yunzhanghu RedPacket SDK for PHP",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "philip",
+            "email": "zhijie.deng@yunzhanghu.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {"RedPacket\\": "src/RedPacket"}
+    }
+}
