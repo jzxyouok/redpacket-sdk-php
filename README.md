@@ -68,8 +68,9 @@ try {
 
 ### Sample
 
-1. 修改 `samples/Config.php`， 补充配置信息
-2. 执行 `cd samples/ && php run.php`
+1. 修改 `samples/Config.php`, 填写自己的配置信息
+2. 执行 `cd samples`
+2. 执行 `php Run.php`
 
 ### 单元测试
 
@@ -80,4 +81,4 @@ try {
 
 开发者邮箱：zhijie.deng@yunzhanghu.com
 
-[releases-page]: https://github.com/PhilipTang/redpacket-server-side-sdk-php/releases
+[releases-page]: https://github.com/PhilipTang/redpacket-sdk-php/releases
